@@ -2,3 +2,4 @@ beleirok valamit
 adding new line
 plus 3.line
 Adding from webRepo
+Adding new line from master
